@@ -1,0 +1,56 @@
+body, html{
+    background: #e5e5e5;
+    font-size: 16px;
+}
+.whiteBlock{
+    background: white;
+    height: 298px;
+    margin-top: 24vh;
+
+}
+.mainBlock{
+    padding: 34px 60px 20px 60px;
+}
+.icon{
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 900;
+}
+.textBlock{
+    font-size: 16px;
+}
+.vhr{
+    position: absolute;
+    width: 1px;
+    top:8px;
+    height: 45px;
+    background: #DADADA;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.backgrondBlock{
+    background: #F5F5F5 !important;
+}
+input{
+    height: 65px !important;
+    outline:none;
+}
+input:focus{
+    border: none;
+}
+.inputBlock{
+    font-size: 20px;
+    font-weight: 600;
+    background: #F5F5F5 !important;
+    border: none;
+}
+.col-7{
+    padding: 0 15px 0 0 ;
+}
+.btn{
+    color: black;
+    margin: 0  0 0 15px;
+}
+.container{
+
+    height: 100vh;
+}
